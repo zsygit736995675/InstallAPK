@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <root-path name="root_path" path="." />
+    <external-path
+        name="."
+        path="baiding" />
+    <files-path name="name" path="path" /> 
+    <cache-path name="name" path="path" /> 
+    <external-path name="name" path="path" />
+    <external-files-path name="name" path="path" />     
+    <external-cache-path name="name" path="path" />
+</resources>
